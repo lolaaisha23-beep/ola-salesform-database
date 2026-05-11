@@ -31,4 +31,6 @@ The macro-enabled sales automation workbook can be evaluated using the following
 - Data Entry Accuracy Rate
 - Transaction Processing Time
 - Daily/Monthly Sales Trends
-  ![sales form]()
+ ## sales form preview
+  ![sales form](https://github.com/lolaaisha23-beep/ola-salesform-database/blob/main/Sales_form.png)
+  
