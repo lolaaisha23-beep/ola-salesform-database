@@ -33,6 +33,8 @@ The macro-enabled sales automation workbook can be evaluated using the following
 - Daily/Monthly Sales Trends
  ## sales form preview
   ![sales form](https://github.com/lolaaisha23-beep/ola-salesform-database/blob/main/Sales_form.png)
+  
   [formfile](https://github.com/lolaaisha23-beep/ola-salesform-database/blob/main/sales_form_database.xlsm)
+  ---
   README.md
   
